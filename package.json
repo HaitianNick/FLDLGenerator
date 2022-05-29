@@ -1,0 +1,29 @@
+{
+  "name": "fldlgenerator",
+  "version": "0.1.0",
+  "description": "A program that generates FL-DL numbers.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaitianNick/FLDLGenerator.git"
+  },
+  "keywords": [
+    "utility",
+    "zak",
+    "generator"
+  ],
+  "author": "Haitian Nick <haitiannick@gmail.com> (https://haitiannick.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaitianNick/FLDLGenerator/issues"
+  },
+  "homepage": "https://github.com/HaitianNick/FLDLGenerator#readme",
+  "dependencies": {
+    "jsontoxml": "^1.0.1",
+    "selenium-webdriver": "^4.2.0",
+    "xlsx": "^0.18.5"
+  }
+}
