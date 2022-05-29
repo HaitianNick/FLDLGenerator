@@ -1,4 +1,5 @@
-const {Builder, By, Key} = require("selenium-webdriver")
+const {Builder, By, Key} = require("selenium-webdriver");
+const profileData = require("./dataMod");
 
 let flGenerator = async function (profiles) {    
 
@@ -36,6 +37,9 @@ let flGenerator = async function (profiles) {
 
     // Console.log the fLNumber
     console.log(fLNumber);
+
+    // Push the FL Number to the object in profile. data
+    profiles.Lisence = fLNumber;
 
     // Close the browser
     await webdriver.quit();
