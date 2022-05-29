@@ -2,7 +2,7 @@
   "name": "fldlgenerator",
   "version": "0.1.0",
   "description": "A program that generates FL-DL numbers.",
-  "main": "main.js",
+  "main": "fLGen.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

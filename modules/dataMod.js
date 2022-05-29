@@ -7,7 +7,7 @@ const XLSX = require("xlsx");
 let wb = XLSX.readFile("data/dummyData.xlsx", {cellDates:true});
 
 // Verify the Sheet names of your workbook
-console.log(wb.SheetNames);
+// console.log(wb.SheetNames);
 
 // store the desired sheet into a variable
 let ws = wb.Sheets["Profiles"];

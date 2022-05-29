@@ -36,7 +36,7 @@ let flGenerator = async function (profiles) {
     fLNumber = fLNumber + 0;
 
     // Console.log the fLNumber
-    console.log(fLNumber);
+    //console.log(fLNumber);
 
     // Push the FL Number to the object in profile. data
     profiles.Lisence = fLNumber;

@@ -25,7 +25,7 @@ dlGenerator(profileData, flGenerator).then(function(results){
     newWS = XLSX.utils.json_to_sheet(profileData);
 
     // Verify that the New Worksheet has been converted to sheets
-    console.log(newWS);
+    //console.log(newWS);
 
     // Create new workbook and store in variable newWB
     let newWB = XLSX.utils.book_new();
@@ -38,7 +38,7 @@ dlGenerator(profileData, flGenerator).then(function(results){
         
     // all done here
     // array of data here in result
-    
+
 }, function(reason) {
 
     // rejection happened
