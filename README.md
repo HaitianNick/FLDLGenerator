@@ -36,9 +36,7 @@ Email: haitiannick@gmail.com
 Project Link: https://github.com/HaitianNick/FLDLGenerator
 
 ## Acknowledgements
-- selenium web-driver (npm)
-- jsontoxml (npm)
-- xlxs package (npm) 
+- selenium web-driver (npm) 
 - University of Miami Extended Education Boot Camps
 - www.highprogrammer.com
 
