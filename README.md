@@ -27,8 +27,20 @@ This is the driect link here: `https://www.youtube.com/watch?v=f6MFmpMJzIM`
 
 ## License
 
+Distributed under the MIT License.
+
 ## Contact
 
+Twitter: https://twitter.com/HaitianNick
+Email: haitiannick@gmail.com
+Project Link: https://github.com/HaitianNick/FLDLGenerator
+
 ## Acknowledgements
+- selenium web-driver (npm)
+- jsontoxml (npm)
+- xlxs package (npm) 
+- University of Miami Extended Education Boot Camps
+- www.highprogrammer.com
+
 
 
